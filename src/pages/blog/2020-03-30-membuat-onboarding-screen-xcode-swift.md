@@ -1,11 +1,10 @@
 ---
 path: "/onboarding-xcode-swift"
-cover: "thumbnails/flutter.png"
 date: "2020-03-30"
 title: "Membuat Onboarding Screen pada iOS menggunakan Xcode & Swift"
-tags: ['flutter']
+tags: ['ios']
 author: ihwanid
-featuredImage: './power-source.jpg'
+featuredImage: './drafts.jpg'
 ---
 Saya pemula, tidak ada salahnya jika saya share. 
 

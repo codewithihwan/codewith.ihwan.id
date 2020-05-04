@@ -1,11 +1,11 @@
 - label: Home
   url: /
 
-- label: iOS Development
+- label: iOS 
   url: /tag/ios
 
-- label: Flutter Development
+- label: Flutter
   url: /tag/flutter
 
-- label: Android Development
+- label: Android 
   url: /tag/android

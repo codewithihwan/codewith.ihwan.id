@@ -1,9 +1,8 @@
 ---
 path: "/mengapa-kotlin"
-cover: "thumbnails/flutter.png"
 date: "2019-11-02"
 title: "Kenapa Kotlin?"
-tags: ['kotlin']
+tags: ['android']
 author: ihwanid
 featuredImage: './power-source.jpg'
 ---

@@ -1,10 +1,9 @@
 ---
 path: "/flutter-tanpa-android-studio"
-cover: "thumbnails/flutter.png"
 date: "2018-11-02"
 title: "Instalasi Flutter Tanpa Android Studio"
 author: ihwanid
-featuredImage: './power-source.jpg'
+featuredImage: './drafts.jpg'
 tags: ['flutter']
 ---
 Hai semuanya! Semoga sehat selalu.

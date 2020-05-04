@@ -1,9 +1,8 @@
 ---
 path: "/costum-font-xcode-swift"
-cover: "thumbnails/flutter.png"
 date: "2020-03-31"
 title: "Custom Fornt pada iOS menggunakan Xcode & Swift"
-tags: ['flutter']
+tags: ['ios']
 author: ihwanid
 featuredImage: './power-source.jpg'
 ---

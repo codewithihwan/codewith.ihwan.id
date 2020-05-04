@@ -1,6 +1,5 @@
 ---
 path: "/icon-app-android-ios-flutter"
-cover: "thumbnails/flutter.png"
 date: "2020-03-21"
 title: "Mengganti Icon App iOS Android di Flutter"
 tags: ['flutter']

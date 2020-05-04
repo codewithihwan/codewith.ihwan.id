@@ -1,6 +1,5 @@
 ---
 path: "/pull-refresh-flutter"
-cover: "thumbnails/flutter.png"
 date: "2019-11-02"
 title: "pull refresh pada flutter?"
 tags: ['flutter']
