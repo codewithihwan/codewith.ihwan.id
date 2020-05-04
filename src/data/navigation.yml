@@ -1,8 +1,11 @@
 - label: Home
   url: /
 
-- label: Web Development
-  url: /tag/web-dev
+- label: iOS Development
+  url: /tag/ios
 
 - label: Flutter Development
   url: /tag/flutter
+
+- label: Android Development
+  url: /tag/android
