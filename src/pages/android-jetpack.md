@@ -1,5 +1,4 @@
 ---
-path: "/android-jetpack"
 date: "2019-10-22"
 title: "Android Jetpack untuk pemula"
 published: true

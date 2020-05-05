@@ -1,5 +1,4 @@
 ---
-path: "/pull-refresh-flutter"
 date: "2019-11-02"
 title: "pull refresh pada flutter?"
 tags: ['flutter']

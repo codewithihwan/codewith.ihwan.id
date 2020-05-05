@@ -1,5 +1,4 @@
 ---
-path: "/flutter-tanpa-android-studio"
 date: "2018-11-02"
 title: "Instalasi Flutter Tanpa Android Studio"
 author: ihwanid

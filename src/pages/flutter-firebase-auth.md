@@ -1,5 +1,4 @@
 ---
-path: "/flutter-firebase-auth"
 date: "2019-11-01"
 title: "Login & Register with Firebase Auth Flutter"
 tags: ['flutter']

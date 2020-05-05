@@ -1,5 +1,4 @@
 ---
-path: "/costum-font-xcode-swift"
 date: "2020-03-31"
 title: "Custom Fornt pada iOS menggunakan Xcode & Swift"
 tags: ['ios']

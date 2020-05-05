@@ -1,5 +1,4 @@
 ---
-path: "/onboarding-xcode-swift"
 date: "2020-03-30"
 title: "Membuat Onboarding Screen pada iOS menggunakan Xcode & Swift"
 tags: ['ios']

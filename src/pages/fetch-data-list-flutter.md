@@ -1,5 +1,4 @@
 ---
-path: "/fetch-data-list-flutter"
 date: "2018-10-27"
 title: "Fetch Data from API SpaceX"
 tags: ['flutter']
