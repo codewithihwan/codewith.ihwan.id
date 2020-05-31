@@ -3,7 +3,7 @@ date: "2019-11-02"
 title: "pull refresh pada flutter?"
 tags: ['flutter']
 author: ihwanid
-featuredImage: './drafts.jpg'
+featuredImage: './images/drafts.jpg'
 ---
 Terkadang kita memerlukan keadaan dimana screen kita harus memuat ulang data demi mendapatkan data terbaru. nah widget RefreshIndicator bisa menjadi jawaban nya. berikuta penjelasan lebih lanjut tentang widget tersebut. 
 

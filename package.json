@@ -1,7 +1,7 @@
 {
   "name": "codewith.ihwa.id",
   "version": "0.0.1",
-  "description": "Website tempat belajar mobile programming berbahasa Indonesia lengkap. membahas teknologi native untuk Android, iOS dan Hybrid dengan Flutter.",
+  "description": "Belajar Mobile Programming - Android, iOS dan Flutter",
   "private": true,
   "scripts": {
     "develop": "gatsby develop",

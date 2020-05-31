@@ -3,7 +3,7 @@ date: "2019-10-31"
 title: "Firebase Setup For Flutter"
 tags: ['flutter']
 author: ihwanid
-featuredImage: './drafts.jpg'
+featuredImage: './images/drafts.jpg'
 ---
 Buka https://console.firebase.google.com/ dan buatlah project baru, penampakan seperti berikut. 
 
