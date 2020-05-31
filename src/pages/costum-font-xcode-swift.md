@@ -3,7 +3,7 @@ date: "2020-03-31"
 title: "Custom Fornt pada iOS menggunakan Xcode & Swift"
 tags: ['ios']
 author: ihwanid
-featuredImage: './power-source.jpg'
+featuredImage: './images/power-source.jpg'
 ---
 Saya pemula, tidak ada salahnya jika saya share. 
 

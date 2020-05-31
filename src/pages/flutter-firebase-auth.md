@@ -3,7 +3,7 @@ date: "2019-11-01"
 title: "Login & Register with Firebase Auth Flutter"
 tags: ['flutter']
 author: ihwanid
-featuredImage: './power-source.jpg'
+featuredImage: './images/power-source.jpg'
 ---
 Di (Artikel Sebelumnya)[https://codewith.ihwan.id] kita sudah berhasil melakukan setup firebase ke aplikasi flutter kita. 
 

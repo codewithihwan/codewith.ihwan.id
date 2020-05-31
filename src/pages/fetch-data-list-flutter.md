@@ -3,7 +3,7 @@ date: "2018-10-27"
 title: "Fetch Data from API SpaceX"
 tags: ['flutter']
 author: ihwanid
-featuredImage: ./ship-it.jpg
+featuredImage: ./images/ship-it.jpg
 draft: false
 ---
 
