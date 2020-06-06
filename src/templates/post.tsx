@@ -22,6 +22,14 @@ import config from '../website-config';
 import { AuthorList } from '../components/AuthorList';
 import { DiscussionEmbed } from "disqus-react";
 
+const disqusShortname = "codewithihwan";
+
+const disqusConfig = {
+    url: `https://codewith.ihwan.id${this}`,
+    identifier: `${this}`,
+  title: PostContent.name,
+    };
+
 export interface Author {
   id: string;
   bio: string;
@@ -104,16 +112,8 @@ export interface PageContext {
   };
 }
 
-const disqusShortname = "codewithihwan";
-    const disqusConfig = {
-    url: `https://codewith.ihwan.id${this}`,
-    identifier: `${this}`,
-  title: PostContent.name,
-    };
-
 const PageTemplate: React.FC<PageTemplateProps> = props => {
   const post = props.data.markdownRemark;
-  
   let width = '';
   let height = '';
   if (post.frontmatter.image && post.frontmatter.image.childImageSharp) {
@@ -247,14 +247,14 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
             </article>
           </div>
         </main>
-
+        
         <ReadNext
           currentPageSlug={props.pathContext.slug}
           tags={post.frontmatter.tags}
           relatedPosts={props.data.relatedPosts}
           pageContext={props.pageContext}
         />
-        
+
         <Footer />
       </Wrapper>
     </IndexLayout>
